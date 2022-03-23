@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         I am a recent graduate from Texas State University looking to explore new opportunities, and technologies.
         </SectionText>
-        <Button onClick={() => window.location = 'https://mail.google.com/mail/?view=cm&source=mailto&to=[hcscott22@gmail.com]'}>Learn More</Button>
+        <Button onClick={() => window.location = 'https://mail.google.com/mail/?view=cm&source=mailto&to=[hcscott22@gmail.com]'}>Email Me</Button>
       </LeftSection>
     </Section>
   </>
