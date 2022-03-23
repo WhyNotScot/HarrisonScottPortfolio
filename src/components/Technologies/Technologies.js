@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in web development, app development,
-      and unity. I am constantly looking to add to the number of skills I posses by
+      and unity. I am constantly looking to add to the number of skills I possess by
       diving into whatever peaks my intrest.
     </SectionText>
     <List>
