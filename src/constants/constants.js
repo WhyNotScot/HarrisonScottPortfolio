@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Travel App',
-    description: "This is an upcoming and long awaited project of mine. The plan is to be able to act as normal social media but the primary goal of the app is to shar new hangout locations/ events/ and travel plans with other users.",
+    description: "This is an upcoming and long awaited project of mine. The plan is to be able to act as normal social media but the primary goal of the app is to share new hangout locations/ events/ and travel plans with other users.",
       image: '/images/3.avif',
       tags: ['React Native', 'Google Firebase'],
     source: 'https://google.com',
